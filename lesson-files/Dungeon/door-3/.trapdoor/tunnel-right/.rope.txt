@@ -1,0 +1,11 @@
+You find a coil of rope wedged between the rocks!
+
+You try to use it to cross the pit, but...
+it's way too short.
+
+This isn't the way forward.
+
+But hey — you practiced ls -a again, and now you've
+confirmed that the MIDDLE tunnel is the one to try.
+
+Type:  cd ../tunnel-middle

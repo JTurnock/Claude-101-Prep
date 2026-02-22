@@ -1,0 +1,21 @@
+================================
+      FRESH MART GROCERY
+      789 Oak Ave, Vancouver
+================================
+Date: March 9, 2025
+Time: 10:30 AM
+
+  Avocados (3)               $4.47
+  Salmon Fillet (1lb)       $13.99
+  Jasmine Rice (2lb)         $4.99
+  Broccoli                   $2.99
+  Greek Yogurt               $6.49
+  Sparkling Water (6pk)      $5.99
+  --------------------------------
+  Subtotal                  $38.92
+  Tax                        $0.00
+  ================================
+  TOTAL                     $38.92
+
+  Payment: Visa ***1234
+================================

@@ -1,0 +1,19 @@
+================================
+    BEAN THERE COFFEE SHOP
+    1234 Main St, Vancouver
+================================
+Date: February 25, 2025
+Time: 9:05 AM
+
+  Cappuccino (M)            $5.50
+  Banana Bread               $3.75
+  Oat Milk Latte (L)        $6.50
+  --------------------------------
+  Subtotal                  $15.75
+  Tax                        $0.79
+  ================================
+  TOTAL                     $16.54
+
+  Payment: Visa ***1234
+  Thank you for your visit!
+================================

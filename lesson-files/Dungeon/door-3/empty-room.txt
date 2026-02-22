@@ -1,0 +1,12 @@
+You step into door-3.
+
+A bare stone room. No furniture. No decorations.
+Just cold walls and a stone floor.
+
+Completely empty.
+
+...
+
+Really? After what you learned in the library?
+
+You know what to do. Type:  ls -a

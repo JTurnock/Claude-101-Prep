@@ -1,0 +1,22 @@
+The middle tunnel narrows, then opens wide.
+
+Torches flicker to life along the walls as you step inside.
+A vast chamber stretches out before you.
+
+At the far end — an ornate treasure chest sits on a raised
+stone platform, glinting in the firelight.
+
+  ┌─────────────────────────────────┐
+  │  ╔═══════════════════════════╗  │
+  │  ║                           ║  │
+  │  ║      TREASURE CHEST       ║  │
+  │  ║                           ║  │
+  │  ╚═══════╦═══════╦══════════╝  │
+  │          ║       ║             │
+  │          ╚═══════╝             │
+  └─────────────────────────────────┘
+
+You throw open the lid... but where's the treasure?
+
+The real treasure is HIDDEN in this room.
+You know what to do:  ls -a

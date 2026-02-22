@@ -1,0 +1,182 @@
+{
+  "party_name": "The Sunken Crown Adventurers",
+  "campaign": "Curse of the Shattered Isles",
+  "characters": [
+    {
+      "name": "Thorin Ironforge",
+      "race": "Mountain Dwarf",
+      "class": "Fighter",
+      "subclass": "Champion",
+      "level": 8,
+      "alignment": "Lawful Good",
+      "stats": {
+        "strength": 18,
+        "dexterity": 12,
+        "constitution": 16,
+        "intelligence": 10,
+        "wisdom": 13,
+        "charisma": 8
+      },
+      "hp": 76,
+      "armor_class": 18,
+      "equipment": [
+        "Warhammer +1",
+        "Shield of Dwarven Fortitude",
+        "Chain Mail",
+        "Handaxe (2)",
+        "Explorer's Pack"
+      ],
+      "languages": ["Common", "Dwarvish"],
+      "backstory": "Former mine foreman from the Ironforge clan. Took up adventuring after his mine was overrun by a tribe of goblins. Swore an oath to protect those who cannot protect themselves. Secretly afraid of deep water.",
+      "notable_kills": 47,
+      "gold": 230
+    },
+    {
+      "name": "Lyra Nightwhisper",
+      "race": "Half-Elf",
+      "class": "Wizard",
+      "subclass": "School of Evocation",
+      "level": 8,
+      "alignment": "Chaotic Good",
+      "stats": {
+        "strength": 8,
+        "dexterity": 14,
+        "constitution": 12,
+        "intelligence": 19,
+        "wisdom": 11,
+        "charisma": 15
+      },
+      "hp": 42,
+      "armor_class": 12,
+      "equipment": [
+        "Staff of Fire",
+        "Spellbook (waterproof)",
+        "Component Pouch",
+        "Robes of the Archmagi (replica)",
+        "Scholar's Pack"
+      ],
+      "languages": ["Common", "Elvish", "Draconic", "Sylvan"],
+      "backstory": "Expelled from the Arcane Academy for 'unauthorized experimentation' — she accidentally set the library on fire. Twice. Now travels with the party to prove her magical talent is an asset, not a liability. Has a rivalry with every other wizard she meets.",
+      "notable_kills": 31,
+      "gold": 185
+    },
+    {
+      "name": "Brother Aldric",
+      "race": "Human",
+      "class": "Cleric",
+      "subclass": "Life Domain",
+      "level": 8,
+      "alignment": "Neutral Good",
+      "stats": {
+        "strength": 14,
+        "dexterity": 10,
+        "constitution": 15,
+        "intelligence": 12,
+        "wisdom": 18,
+        "charisma": 13
+      },
+      "hp": 64,
+      "armor_class": 18,
+      "equipment": [
+        "Mace +1",
+        "Shield of Faith",
+        "Splint Armor",
+        "Holy Symbol of Lathander",
+        "Healer's Kit",
+        "Priest's Pack"
+      ],
+      "languages": ["Common", "Celestial"],
+      "backstory": "A quiet, patient healer from a small monastery. Joined the party because a divine vision told him 'these idiots will die without you.' He was right. Has resurrected Thorin three times so far and keeps a tally on his shield.",
+      "notable_kills": 12,
+      "gold": 310
+    },
+    {
+      "name": "Zix",
+      "race": "Goblin",
+      "class": "Rogue",
+      "subclass": "Arcane Trickster",
+      "level": 8,
+      "alignment": "Chaotic Neutral",
+      "stats": {
+        "strength": 8,
+        "dexterity": 20,
+        "constitution": 12,
+        "intelligence": 14,
+        "wisdom": 10,
+        "charisma": 11
+      },
+      "hp": 51,
+      "armor_class": 17,
+      "equipment": [
+        "Dagger of Venom",
+        "Shortbow +1",
+        "Studded Leather Armor",
+        "Thieves' Tools (masterwork)",
+        "Cloak of Elvenkind",
+        "Burglar's Pack"
+      ],
+      "languages": ["Common", "Goblin", "Thieves' Cant"],
+      "backstory": "Left her goblin tribe because they were 'too boring.' Found the party while trying to pickpocket Thorin — who caught her immediately. Instead of punishment, they offered her a cut of the loot if she'd use her skills for the group. She negotiated a bigger cut. Collects shiny buttons.",
+      "notable_kills": 38,
+      "gold": 425
+    },
+    {
+      "name": "Bramblewood",
+      "race": "Firbolg",
+      "class": "Druid",
+      "subclass": "Circle of the Moon",
+      "level": 8,
+      "alignment": "True Neutral",
+      "stats": {
+        "strength": 14,
+        "dexterity": 10,
+        "constitution": 14,
+        "intelligence": 12,
+        "wisdom": 17,
+        "charisma": 11
+      },
+      "hp": 60,
+      "armor_class": 14,
+      "equipment": [
+        "Staff of the Woodlands",
+        "Hide Armor",
+        "Wooden Shield",
+        "Herbalism Kit",
+        "Druidic Focus (oak branch)"
+      ],
+      "languages": ["Common", "Druidic", "Giant", "Sylvan"],
+      "backstory": "A gentle giant who speaks to plants and prefers the company of animals. Joined the party after they saved a grove of ancient trees from loggers. Refers to everyone by descriptions instead of names — Thorin is 'the small loud one,' Lyra is 'the fire child.' Turns into a bear when stressed.",
+      "notable_kills": 22,
+      "gold": 90
+    },
+    {
+      "name": "Kael Stormborn",
+      "race": "Dragonborn (Blue)",
+      "class": "Paladin",
+      "subclass": "Oath of Vengeance",
+      "level": 8,
+      "alignment": "Lawful Neutral",
+      "stats": {
+        "strength": 17,
+        "dexterity": 10,
+        "constitution": 14,
+        "intelligence": 8,
+        "wisdom": 12,
+        "charisma": 16
+      },
+      "hp": 68,
+      "armor_class": 20,
+      "equipment": [
+        "Greatsword +1 (Lightning)",
+        "Plate Armor",
+        "Javelin (4)",
+        "Holy Symbol (lightning bolt pendant)",
+        "Explorer's Pack"
+      ],
+      "languages": ["Common", "Draconic"],
+      "backstory": "Last survivor of a dragonborn settlement destroyed by a red dragon. Swore a blood oath to hunt it down. Intensely serious about everything — once challenged a bartender to a duel over a spilled drink. Has never told a joke, but is accidentally hilarious.",
+      "notable_kills": 55,
+      "gold": 175
+    }
+  ]
+}

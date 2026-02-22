@@ -1,0 +1,25 @@
+╔══════════════════════════════════════════════════╗
+║         WELCOME TO THE TERMINAL DUNGEON          ║
+╚══════════════════════════════════════════════════╝
+
+You stand at the entrance of a dark, mysterious dungeon.
+The air smells like old stone and adventure.
+
+Three doors loom before you in the flickering torchlight.
+
+YOUR QUEST: Find the hidden treasure buried deep below.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  HOW TO PLAY:
+  • To look around a room:     ls
+  • To read something:         cat filename.txt
+  • To enter a door:           cd door-1
+  • To go back:                cd ..
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Type 'ls' to see what's in this room.
+You should see three doors. Begin with door-1.
+
+Good luck, adventurer!

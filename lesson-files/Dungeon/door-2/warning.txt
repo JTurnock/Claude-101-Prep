@@ -1,0 +1,13 @@
+Carved into the stone floor, ancient words read:
+
+  ⚠  WARNING  ⚠
+
+  "Not all paths lead forward.
+   The dungeon has dead ends and traps.
+   But every dead end has a message.
+   Explore EVERYTHING — even wrong turns teach you something."
+
+  "And remember: if you ever get lost,
+   type 'pwd' to see exactly where you are."
+
+(pwd = "print working directory" — it shows your current location)

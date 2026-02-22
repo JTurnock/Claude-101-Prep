@@ -1,0 +1,15 @@
+Scratched desperately into the stone wall:
+
+  ┌─────────────────────────────────────────┐
+  │  "I WENT LEFT. I WAS WRONG.            │
+  │   I WENT RIGHT. ALSO WRONG.            │
+  │                                         │
+  │   THE MIDDLE PATH IS THE TRUE PATH.     │
+  │                                         │
+  │   THE TREASURE HIDES IN THE SHADOWS.    │
+  │   YOU WILL NEED ls -a AT EVERY TURN."   │
+  └─────────────────────────────────────────┘
+
+Head back and try the middle tunnel.
+
+Type:  cd ../tunnel-middle

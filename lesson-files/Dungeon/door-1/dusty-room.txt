@@ -1,0 +1,13 @@
+You push open door-1 and step inside.
+
+A dusty room. Cobwebs hang from the ceiling.
+An old wooden table sits in the corner, covered in dust.
+
+It looks like nobody's been here in years...
+
+...or HAS someone been here?
+
+Sometimes things aren't as empty as they look.
+Try typing:  ls -a
+
+(The -a flag means "show ALL files" — even hidden ones.)

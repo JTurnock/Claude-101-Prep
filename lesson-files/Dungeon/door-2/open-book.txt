@@ -1,0 +1,22 @@
+The book is old, leather-bound, titled:
+
+  "A GUIDE TO THE DEPTHS BELOW"
+
+Most pages are destroyed, but one passage is legible:
+
+  "The passage to the treasure lies behind door-3,
+   hidden from those who only look on the surface.
+
+   Know this: just as FILES can be hidden with a dot,
+   so too can entire ROOMS be hidden.
+
+   A directory that starts with a dot is invisible
+   to those who do not know to look."
+
+That's a big hint. Hidden DIRECTORIES exist too.
+Remember this when you get to door-3.
+
+One more line, barely legible at the bottom of the page:
+
+  "Legend speaks of a treasure that SINGS
+   to those who find it."

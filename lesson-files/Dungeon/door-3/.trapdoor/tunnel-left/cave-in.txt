@@ -1,0 +1,12 @@
+RUMBLE...
+
+Rocks tumble from the ceiling! A cave-in blocks the path ahead.
+You can't go any further this way.
+
+Dead end.
+
+But wait — someone was here before you.
+There are deep scratches on the wall, like someone
+carved a message with a knife...
+
+You can barely see it in the dark. Try:  ls -a

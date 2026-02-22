@@ -1,0 +1,26 @@
+name,level,school,casting_time,range_feet,components,duration,classes,damage_type,damage_dice,description
+Fire Bolt,0,Evocation,1 action,120,"V, S",Instantaneous,Wizard,Fire,1d10,A flickering flame hurls toward a creature in range. On hit it takes fire damage and flammable objects ignite.
+Sacred Flame,0,Evocation,1 action,60,V,Instantaneous,Cleric,Radiant,1d8,Flame-like radiance descends on a creature. No attack roll — target makes a Dex save or takes damage.
+Mage Hand,0,Conjuration,1 action,30,"V, S",1 minute,Wizard,None,None,A spectral floating hand appears and can manipulate objects up to 10 pounds. Useful for grabbing things from a distance.
+Thorn Whip,0,Transmutation,1 action,30,"V, S, M",Instantaneous,Druid,Piercing,1d6,A vine-like whip lashes out. On hit the target takes damage and if Large or smaller is pulled 10 feet toward you.
+Vicious Mockery,0,Enchantment,1 action,60,V,Instantaneous,Bard,Psychic,1d4,You hurl a string of insults so vicious they cause actual psychic damage. Target has disadvantage on next attack.
+Healing Word,1,Evocation,1 bonus action,60,V,Instantaneous,Cleric,Healing,1d4+mod,A quick prayer restores hit points to a creature in range. The go-to emergency heal.
+Shield,1,Abjuration,1 reaction,Self,"V, S",1 round,Wizard,None,None,An invisible barrier of force appears. +5 to AC until the start of your next turn including against the triggering attack.
+Cure Wounds,1,Evocation,1 action,Touch,"V, S",Instantaneous,Cleric/Druid,Healing,1d8+mod,A creature you touch regains hit points. More potent than Healing Word but requires touch range.
+Hunter's Mark,1,Divination,1 bonus action,90,V,Concentration 1 hour,Ranger/Paladin,None,1d6,You mark a creature as your quarry. Deal extra damage on each hit and have advantage on tracking it.
+Thunderwave,1,Evocation,1 action,Self (15ft cube),"V, S",Instantaneous,Wizard/Druid,Thunder,2d8,A wave of thunderous force sweeps out. Creatures in area take damage and are pushed 10 feet. Very loud.
+Misty Step,2,Conjuration,1 bonus action,Self,V,Instantaneous,Wizard,None,None,You teleport up to 30 feet to an unoccupied space you can see. Brief silver mist marks where you vanished.
+Moonbeam,2,Evocation,1 action,120,"V, S, M",Concentration 1 minute,Druid,Radiant,2d10,A silvery beam of pale light shines down. Creatures in the beam take radiant damage. Shapechangers have disadvantage.
+Spiritual Weapon,2,Evocation,1 bonus action,60,"V, S",1 minute,Cleric,Force,1d8+mod,A floating spectral weapon appears and attacks. Doesn't require concentration — one of the best cleric spells.
+Sneak Attack,0,None,Passive,Melee/Ranged,None,Passive,Rogue,Varies,4d6,Not a spell but a class feature. Once per turn deal extra damage when you have advantage or an ally is adjacent.
+Fireball,3,Evocation,1 action,150,"V, S, M",Instantaneous,Wizard,Fire,8d6,A bright streak from your finger explodes into a 20-foot radius sphere of flame. The classic. Everyone's favorite.
+Revivify,3,Necromancy,1 action,Touch,"V, S, M (300gp diamond)",Instantaneous,Cleric/Paladin,Healing,1hp,You touch a creature dead less than 1 minute. It returns to life with 1 hit point. Doesn't work on old age death.
+Call Lightning,3,Conjuration,1 action,120,"V, S",Concentration 10 minutes,Druid,Lightning,3d10,A storm cloud appears and you call bolts of lightning down each turn. Even stronger if used during an actual storm.
+Counterspell,3,Abjuration,1 reaction,60,S,Instantaneous,Wizard,None,None,You interrupt a creature casting a spell. If 3rd level or lower it fails automatically. Higher levels require a check.
+Wild Shape,0,None,1 action,Self,None,Level/2 hours,Druid,None,None,Not a spell but a class feature. Transform into a beast you have seen. Circle of Moon druids get combat forms.
+Smite (Divine),1,Evocation,Part of attack,Melee,None,Instantaneous,Paladin,Radiant,2d8,Not a spell but a class feature. Expend a spell slot to deal extra radiant damage on a melee hit. The paladin's signature move.
+Guardian of Faith,4,Conjuration,1 action,30,V,8 hours,Cleric,Radiant,20 (flat),A Large spectral guardian appears and deals damage to hostile creatures that move within 10 feet.
+Polymorph,4,Transmutation,1 action,60,"V, S, M",Concentration 1 hour,Wizard/Druid,None,None,Transform a creature into a beast. Turn an enemy into a snail or turn yourself into a T-Rex. Extremely versatile.
+Ice Storm,4,Evocation,1 action,300,"V, S, M",Instantaneous,Wizard,Bludgeoning+Cold,2d8+4d6,A hail of rock-hard ice pounds an area. Creatures take bludgeoning and cold damage. Ground becomes difficult terrain.
+Raise Dead,5,Necromancy,1 hour,Touch,"V, S, M (500gp diamond)",Instantaneous,Cleric,Healing,1hp,Return a dead creature to life (dead up to 10 days). Target takes -4 penalty to rolls that reduces by 1 per long rest.
+Wall of Fire,4,Evocation,1 action,120,"V, S, M",Concentration 1 minute,Wizard/Druid,Fire,5d8,Create a wall of fire up to 60 feet long. One side deals damage to creatures within 10 feet or passing through.

@@ -1,0 +1,10 @@
+You walk confidently into the right tunnel and—
+
+WHOAAA!
+
+You skid to a stop at the edge of a DEEP PIT.
+It drops into total darkness. You can't hear the bottom.
+
+No way across. This isn't the right path.
+
+But there might be something useful here... ls -a

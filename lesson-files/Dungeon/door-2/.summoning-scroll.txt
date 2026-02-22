@@ -1,0 +1,49 @@
+Behind a loose brick in the library wall, you find an ancient scroll.
+
+You unroll it carefully. The text glows faintly:
+
+  ╔══════════════════════════════════════════════════╗
+  ║            THE SUMMONING SCROLL                  ║
+  ║                                                  ║
+  ║   "Speak these words into the terminal           ║
+  ║    to summon a powerful companion —               ║
+  ║    an AI that can read, write, and run            ║
+  ║    commands, just like you've been learning."     ║
+  ╚══════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  THE INCANTATION:
+
+    npm install -g @anthropic-ai/claude-code
+
+  Let's break this down — every piece means something:
+
+    npm                         — the program you're running.
+                                  Remember npm? It came bundled
+                                  with Node.js, which you installed
+                                  earlier. Think of it as an
+                                  APP STORE for developer tools.
+
+    install                     — what you want npm to do.
+                                  (Download and set up a tool.)
+
+    -g                          — a FLAG that means "global."
+                                  Install it so it's available
+                                  everywhere on your Mac, not
+                                  just in this folder.
+
+    @anthropic-ai/claude-code   — the PACKAGE NAME. The specific
+                                  tool you're installing, made by
+                                  a company called Anthropic.
+
+  Run the command now. You'll see text scrolling by — that's npm
+  downloading the tool and all its pieces. This is normal!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+We'll awaken your companion after you complete the dungeon.
+For now, the treasure still awaits. Head to door-3.
+
+Type:  cd ..
+Then:  cd door-3

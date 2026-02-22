@@ -1,0 +1,19 @@
+================================
+    BEAN THERE COFFEE SHOP
+    1234 Main St, Vancouver
+================================
+Date: March 14, 2025
+Time: 8:30 AM
+
+  Mocha (L)                  $7.25
+  Chocolate Chip Cookie      $3.50
+  Drip Coffee (M)            $3.25
+  --------------------------------
+  Subtotal                  $14.00
+  Tax                        $0.70
+  ================================
+  TOTAL                     $14.70
+
+  Payment: Cash
+  Thank you for your visit!
+================================

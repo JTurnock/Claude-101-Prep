@@ -1,0 +1,14 @@
+You enter a dimly lit library.
+
+Bookshelves stretch floor to ceiling, crammed with dusty volumes.
+Most titles are unreadable, faded by time.
+
+But one shelf catches your eye — a book lies OPEN on a reading stand.
+There's also something on the floor... a warning, carved into stone.
+
+Look around:
+  cat open-book.txt      — read the open book
+  cat warning.txt        — read the stone carving
+
+Read everything. Clues hide in plain sight.
+And don't forget — this library has hidden secrets of its own...

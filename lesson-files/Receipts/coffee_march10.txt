@@ -1,0 +1,18 @@
+================================
+    BEAN THERE COFFEE SHOP
+    1234 Main St, Vancouver
+================================
+Date: March 10, 2025
+Time: 7:50 AM
+
+  Drip Coffee (L)          $3.75
+  Croissant                 $3.50
+  --------------------------------
+  Subtotal                  $7.25
+  Tax                       $0.36
+  ================================
+  TOTAL                     $7.61
+
+  Payment: Cash
+  Thank you for your visit!
+================================

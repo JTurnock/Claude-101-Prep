@@ -1,0 +1,18 @@
+================================
+    BEAN THERE COFFEE SHOP
+    1234 Main St, Vancouver
+================================
+Date: March 3, 2025
+Time: 8:15 AM
+
+  Oat Milk Latte (L)     $6.50
+  Blueberry Muffin        $4.25
+  --------------------------------
+  Subtotal                $10.75
+  Tax                      $0.54
+  ================================
+  TOTAL                   $11.29
+
+  Payment: Visa ***1234
+  Thank you for your visit!
+================================

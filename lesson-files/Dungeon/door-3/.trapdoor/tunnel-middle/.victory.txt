@@ -1,0 +1,45 @@
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      * * *  CONGRATULATIONS, ADVENTURER!  * * *              ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+You did it! You navigated the entire Terminal Dungeon!
+
+Here's what you mastered along the way:
+
+  ls          — look around (list files)
+  cat         — read a file
+  cd          — move into a directory
+  cd ..       — go back one level
+  ls -a       — reveal hidden files and directories
+  pwd         — check where you are
+  .dotfiles   — files starting with a dot are hidden
+
+And you installed real developer tools along the way:
+  xcode-select --install    — system developer tools (git!)
+  npm install -g ...        — a tool from the npm app store
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  CLAIM YOUR REWARD!
+
+  One more concept. Every terminal command works like this:
+
+    command   argument
+    ───────   ────────
+    cat       open-me-first.txt    (read THIS file)
+    cd        door-1               (go to THIS folder)
+    afplay    .treasure.wav        (play THIS sound)
+
+  The COMMAND is what to do.
+  The ARGUMENT is what to do it to.
+
+  'afplay' is a program already on your Mac — it plays audio.
+  '.treasure.wav' is the hidden sound file in this room.
+
+  Type:  afplay .treasure.wav
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+You're ready to code.

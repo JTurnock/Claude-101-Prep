@@ -1,0 +1,26 @@
+╔══════════════════════════════════════════════════╗
+║          YOU FOUND THE HIDDEN TRAPDOOR!          ║
+╚══════════════════════════════════════════════════╝
+
+You pull open the trapdoor and drop down into darkness.
+
+THUD.
+
+You land on damp stone. The air is cold down here.
+You're underground now.
+
+(Not sure where you are? Type: pwd)
+
+As your eyes adjust, you see the tunnel ahead splits
+into THREE paths:
+
+  tunnel-left/
+  tunnel-middle/
+  tunnel-right/
+
+The carved message above reads:
+
+  "Only ONE path leads to the treasure.
+   The others... well, explore and find out."
+
+Type 'ls' to see the tunnels, then pick one!

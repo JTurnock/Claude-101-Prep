@@ -1,0 +1,21 @@
+================================
+     NOODLE HOUSE RESTAURANT
+     567 Cedar Blvd, Vancouver
+================================
+Date: March 5, 2025
+Time: 7:15 PM
+
+  Tonkotsu Ramen            $16.50
+  Gyoza (6pc)                $8.99
+  Green Tea                  $2.50
+  Mochi Ice Cream            $5.99
+  --------------------------------
+  Subtotal                  $33.98
+  Tax                        $1.70
+  Tip                        $6.00
+  ================================
+  TOTAL                     $41.68
+
+  Payment: Debit ***5678
+  Thank you! See you again!
+================================

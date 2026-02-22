@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Allow these
+!.gitignore
+!lesson-files/
+!lesson-files/**

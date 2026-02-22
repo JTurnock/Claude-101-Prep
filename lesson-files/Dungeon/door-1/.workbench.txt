@@ -1,0 +1,36 @@
+You brush the dust off a heavy wooden workbench hidden in the corner.
+
+Tools hang from the wall — hammers, chisels, strange instruments
+you don't recognize. This is a blacksmith's workshop.
+
+A plaque on the wall reads:
+
+  "Every adventurer needs proper tools
+   before descending into the depths."
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  FORGE YOUR TOOLS
+
+  Run this command:
+
+    xcode-select --install
+
+  A window will pop up on your screen — click "Install."
+
+  What does this do?
+
+  This is a SYSTEM COMMAND — it talks directly to your Mac's
+  operating system and asks it to install developer tools.
+
+  One of those tools is called 'git'. You don't need it right
+  now, but later it will let you save snapshots of your work —
+  like save points in a game.
+
+  The download will run in the background while you keep
+  exploring. No need to wait — move on to door-2!
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Type:  cd ..
+Then:  cd door-2

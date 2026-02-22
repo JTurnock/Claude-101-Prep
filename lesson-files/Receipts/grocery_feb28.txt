@@ -1,0 +1,22 @@
+================================
+      FRESH MART GROCERY
+      789 Oak Ave, Vancouver
+================================
+Date: February 28, 2025
+Time: 5:42 PM
+
+  Bananas (1 bunch)       $1.29
+  Sourdough Bread          $5.49
+  Cheddar Cheese           $7.99
+  Chicken Breast (2lb)    $12.50
+  Baby Spinach             $4.99
+  Olive Oil                $8.99
+  Eggs (1 dozen)           $5.75
+  --------------------------------
+  Subtotal                $47.00
+  Tax                      $0.00
+  ================================
+  TOTAL                   $47.00
+
+  Payment: Debit ***5678
+================================
