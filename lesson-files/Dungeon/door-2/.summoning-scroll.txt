@@ -42,6 +42,24 @@ You unroll it carefully. The text glows faintly:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+  TROUBLESHOOTING
+
+  If you see an error like:
+
+    dyld: symbol not found ... expected in /usr/lib/libc++.1.dylib
+
+  This means your version of Node.js doesn't match your macOS.
+  The fix: reinstall Node with a version compatible with your Mac.
+
+  Run this to check if Node works:
+
+    node -e "console.log('works')"
+
+  If it prints "works" — you're good. If it throws an error,
+  you'll need to reinstall Node before continuing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 We'll awaken your companion after you complete the dungeon.
 For now, the treasure still awaits. Head to door-3.
 
